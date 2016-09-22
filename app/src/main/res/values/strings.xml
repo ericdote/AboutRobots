@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AboutRobots</string>
+    <string name="textView">Hola humanos</string>
+    <string name="textView2">Mira que sois tontos</string>
+    <string name="exit">Exit</string>
+    <string name="sigue_palante">Sigue palante</string>
+</resources>
